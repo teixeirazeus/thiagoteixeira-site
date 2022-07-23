@@ -69,9 +69,7 @@ O que não fica tão bonito.</p>
 </span></span></code></pre></div><p>O ideal seria colocar um .value, para acessar o valor. Como funciona em python.</p>
 <p>Para isto, é precisso criar um metodo extendido para o enum.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-dart" data-lang="dart"><span style="display:flex;"><span>extension StatusExtension on Status {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">String</span> <span style="color:#66d9ef">get</span> value {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">this</span>.toString().split(<span style="color:#e6db74">&#34;.&#34;</span>).last;
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">String</span> <span style="color:#66d9ef">get</span> value <span style="color:#f92672">=&gt;</span> <span style="color:#66d9ef">this</span>.toString().split(<span style="color:#e6db74">&#34;.&#34;</span>).last;
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>Continua com o split, mas agora pode ser acessado por .value.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-dart" data-lang="dart"><span style="display:flex;"><span>print(Status.PENDING.value);
