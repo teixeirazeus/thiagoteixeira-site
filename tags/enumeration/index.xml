@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>enumeration on Thiago Teixeira</title>
+    <link>https://thiagoteixeira.dev/tags/enumeration/</link>
+    <description>Recent content in enumeration on Thiago Teixeira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>© 2022 Thiago S. Teixeira</copyright>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/tags/enumeration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing dart enumeration</title>
+      <link>https://thiagoteixeira.dev/post/fix-enum-dart/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagoteixeira.dev/post/fix-enum-dart/</guid>
+      <description>Dart is a programming language with a simple syntax and an object-oriented programming structure. I like the syntax of dart, some things remind me of python and js, which makes me happy. However, enumeration is different.
+Suppose you need to enumerate a status of a purchase order. In dart, you can do this as:
+enum Status { PENDING, APPROVED, REJECTED, } Now, you want to print these statuses on the console.</description>
+    </item>
+    
+  </channel>
+</rss>
