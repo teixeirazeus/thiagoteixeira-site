@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Thiago Teixeira</title>
-    <link>https://thiagoteixeira.dev/post/</link>
-    <description>Recent content in Posts on Thiago Teixeira</description>
+    <title>open source on Thiago Teixeira</title>
+    <link>https://thiagoteixeira.dev/tags/open-source/</link>
+    <description>Recent content in open source on Thiago Teixeira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>© 2022 Thiago S. Teixeira</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copilot and copyright</title>
       <link>https://thiagoteixeira.dev/post/copilot-and-copyright/</link>
@@ -16,17 +16,6 @@
       <guid>https://thiagoteixeira.dev/post/copilot-and-copyright/</guid>
       <description>Copilot is a code autocomplete tool created using artificial intelligence. Autocomplete tools that use artificial intelligence are not new. However, the copilot is different. Copilot uses state of the art in artificial intelligence to create code, training with millions of open-source projects. This is a great tool for developers, but it also raises some questions about the future of open-source projects.
 Intellectual property First, let&amp;rsquo;s talk about intellectual property. Intellectual property is a legal right that gives the author of a work the exclusive right to reproduce, distribute, perform, and display the work publicly.</description>
-    </item>
-    
-    <item>
-      <title>Fixing dart enumeration</title>
-      <link>https://thiagoteixeira.dev/post/fix-enum-dart/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://thiagoteixeira.dev/post/fix-enum-dart/</guid>
-      <description>Dart is a programming language with a simple syntax and an object-oriented programming structure. I like the syntax of dart, some things remind me of python and js, which makes me happy. However, enumeration is different.
-Suppose you need to enumerate a status of a purchase order. In dart, you can do this as:
-enum Status { PENDING, APPROVED, REJECTED, } Now, you want to print these statuses on the console.</description>
     </item>
     
   </channel>

@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>© 2022 Thiago S. Teixeira</copyright>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>copilot</title>
+      <link>https://thiagoteixeira.dev/tags/copilot/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagoteixeira.dev/tags/copilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copyright</title>
+      <link>https://thiagoteixeira.dev/tags/copyright/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagoteixeira.dev/tags/copyright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://thiagoteixeira.dev/tags/open-source/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagoteixeira.dev/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>clean code</title>
       <link>https://thiagoteixeira.dev/tags/clean-code/</link>

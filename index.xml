@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>© 2022 Thiago S. Teixeira</copyright>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoteixeira.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copilot and copyright</title>
+      <link>https://thiagoteixeira.dev/post/copilot-and-copyright/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagoteixeira.dev/post/copilot-and-copyright/</guid>
+      <description>Copilot is a code autocomplete tool created using artificial intelligence. Autocomplete tools that use artificial intelligence are not new. However, the copilot is different. Copilot uses state of the art in artificial intelligence to create code, training with millions of open-source projects. This is a great tool for developers, but it also raises some questions about the future of open-source projects.
+Intellectual property First, let&amp;rsquo;s talk about intellectual property. Intellectual property is a legal right that gives the author of a work the exclusive right to reproduce, distribute, perform, and display the work publicly.</description>
+    </item>
+    
     <item>
       <title>Fixing dart enumeration</title>
       <link>https://thiagoteixeira.dev/post/fix-enum-dart/</link>
@@ -29,7 +39,7 @@ enum Status { PENDING, APPROVED, REJECTED, } Now, you want to print these status
     </item>
     
     <item>
-      <title>About</title>
+      <title>Sobre</title>
       <link>https://thiagoteixeira.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,7 +47,7 @@ enum Status { PENDING, APPROVED, REJECTED, } Now, you want to print these status
       <description>I am a computer scientist, founder of DevHops.
 I have some scientific papers published, you can see the list in my Lattes resume.
 The topics in computing that interest me most are:
-Artificial Intelligence Image processing Heuristic methods This site is a repository for texts that I wish to make public.
+ Artificial Intelligence Image processing Heuristic methods  This site is a repository for texts that I wish to make public.
 I believe that the use of social networks can be somewhat destructive because of the nature of how they are constructed.</description>
     </item>
     
